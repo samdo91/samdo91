@@ -19,23 +19,31 @@
 
 
 ## 🐱 Introducing My Repository  
+   간단하게 제가 만든 앱과 프로그램을 설명하는 페이지 입니다. 각 항목을 누르면 해당 리포지토리로 이동하며 자세한 사항은 README를 읽어보세요.
 
 1. [React_BooKing_App](https://github.com/samdo91/React_BooKing_App)  
    <br>
    리엑트로 개발한 에어비앤비 클론 코딩 앱으로 프론트엔드와 백엔드를 연결하는데 중점을 둠  
    이제까지 배우고 익힌 스택을 전부 쏟아낸 프로젝트
-   <br>
+   <br>  
       <br>
 2. [TypeScript_Pokedex](https://github.com/samdo91/React_BooKing_App)   
    <br>
     타입스크립트를 처음으로 적용한 프로젝트로 Rest Api를 사용하는 법을 익히고 전역관리를 익히는데 중점을 둔 프로젝트
-   <br>
+   <br>  
       <br>
-3.   
-
-3.
-4. 
-
+3. [React_AI_ChatApp](https://github.com/samdo91/React_AI_ChatApp)
+  <br>
+   리액트를 이용하여 만든 채팅 앱 처음으로 서버를 만들고 WebSocket을 이용한 전이중 통신을 배우고  
+   CORS 오류를 처음으로 맞닥뜨림.  
+   두 가지 기능을 가지고 있다.
+  1. 채팅방을 만들어 입장하여 대화를 주고 받을 수 있는 채팅 앱
+  2. AI aip를 사용한 인공지능과의 대화
+     <br>  
+      <br>
+4.  [React_wordle_game](https://github.com/samdo91/React_wordle_game)
+     리엑트로 만든 와들게임 이전에 js로 만들었던 와들게임을 마이그레이션했다.
+     fetch API의 정의와 사용법을 배웠다. 
 
 
 
