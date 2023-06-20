@@ -44,7 +44,12 @@
     -리엑트로 만든 와들게임 이전에 js로 만들었던 와들게임을 마이그레이션했다.  
      fetch API의 정의와 사용법을 배웠다. 
 
-
+5. [TypeScript_Inventory_Management](https://github.com/samdo91/TypeScript_Inventory_Management) (진행중)
+      <br>
+ - 타입스크립트를 이용하여 재고관리 프로그램을 만들고 있다.
+ - 협업중인 관계로 진행이 느릴 수도 있다.
+ - 기획명세서와 API명세서, ERD 작성 notion이용을 배웠다.
+ - 기본적인 협업이 이용되는 툴과 기술을 알게되었다.
 
 
 <!--
